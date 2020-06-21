@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Stadia For Kids - Desktop App
+</name>
+</assembly>
+<members>
+<member name="T:Stadia_For_Kids___Desktop_App.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources._220px_Spyro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources._2d22a04b9629c0cf6fa2949268b871bb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources._37e0326e1bb322ba322a626163fd31c0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources._5bdc5bc65f1f7565cd77a159">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources._6VPV96Oz_400x400">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.circled_menu_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.circled_menu_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.controller_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.controller_480px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.controller_480px111">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.d8yoy1j_6d3bbd9a_e84a_403c_8916_e79bbc543a06">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.donkey">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.downloading_updates_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.downloading_updates_filled_500px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.Group_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.Group_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.Group_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.headphones_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.headphones_96px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.hearts_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.mario">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.paid_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.paid_480px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.pokemon_PNG148">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.read_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.read_480px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.Screenshot_105">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.Screenshot_106">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.search_filled_500px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.sonic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.sorting_options_512px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.sorting_options_512px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.Spyro_Reignited_Trilogy_008">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.trophy_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.video_call_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stadia_For_Kids___Desktop_App.My.Resources.Resources.video_call_480px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
